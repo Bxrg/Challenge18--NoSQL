@@ -1,0 +1,25 @@
+{
+    "name": "18-nosql-social-network",
+    "version": "1.0.0",
+    "description": "A small social network for people to share thier own thoughts.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Bxrg/Challenge18--NoSQL"
+    },
+    "keywords": [],
+    "author": "Noah Borg",
+    "license": "N/A",
+    "bugs": {
+        "url": "https://github.com/Bxrg/Challenge18--NoSQL/issues"
+    },
+    "homepage": "https://github.com/Bxrg/Challenge18--NoSQL#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^6.3.1"
+    }
+}
